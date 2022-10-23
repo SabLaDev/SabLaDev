@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabLaDev
 - 👀 I’m interested in web mobile application programming
-- 🌱 I’m currently learning Kotlin and Java
+- 🌱 I’m currently learning SwiftUI
 
 
 <!---
