@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @SabLaDev
-- 👀 I’m interested in web mobile application programming
-- 🌱 I’m currently learning SwiftUI
+- 👋🏽 Bonjour, Je suis @SabLaDev
+- 👀 Très intéressée par le développement d’application mobile
+- 📚 J'ai suivi des formations dans le développement web. Connaissance des langages HTML, CSS, PHP, JavaScript, Java...
+- 🌱 Actuellement en train de suivre le programme de formation "APPLE FOUNDATION PROGRAM" chez Simplon.co.
+- 🎯 Mon objectif : Devenir une développeuse IOS/SWIFT.
 
 
 <!---
